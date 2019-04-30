@@ -107,6 +107,7 @@
 }
 
 .card-icon-link {
+    margin: 20px 0;
     text-decoration: none;
     width: 35px;
     height: 35px;
